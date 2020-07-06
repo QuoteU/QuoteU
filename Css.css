@@ -11,7 +11,7 @@ h1 {
 
 h3 {
     display: inline;
-   margin: 5px;
+   
   background-color: gainsboro;
     border: solid;
     
@@ -47,5 +47,5 @@ div {
      padding-left: 0px;
     margin-left: 0px;
 }
-ol { padding-left: 10px;
+ol { padding-left: 0px;
 }
