@@ -1,0 +1,56 @@
+h1 {
+    border: solid 5px red;
+    border-radius: 30px;
+   
+ text-align: center;
+}
+.Q {
+    color: red;
+    font-family: cursive;
+}
+
+h3 {
+    display: inline;
+   margin: 5px;
+  background-color: gainsboro;
+    border: solid;
+    
+    
+}
+nav {
+    border: solid red 3px ;
+}
+a {
+    color: black;
+    
+    
+}
+.nav {
+     display: inline;
+   margin: 5px;
+  background-color: yellowgreen;
+    border: solid;
+}
+p {
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+.ccc { 
+    background-color: cadetblue;
+    font-family: times;
+    padding: 15px;
+    margin: 0px;
+}
+div {
+    border: solid 2px ;
+    background-color: aliceblue;
+     padding-left: 0px;
+    margin-left: 0px;
+}
+ol {
+    
+    
+     padding-left: 20px;
+    
+}
+
