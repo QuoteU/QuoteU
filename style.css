@@ -11,9 +11,9 @@ h1 {
 
 h3 {
     display: inline;
-   margin: 0px 5px 5px 5px;
+   margin: 5px;
   background-color: gainsboro;
-    
+    border: solid;
     
     
 }
@@ -57,3 +57,23 @@ ol {
     
 }
 
+.cata{
+  border: none;
+  text-align: left;
+  margin-left: 55px;
+  background-color: gainsboro;
+  margin-right: 1200px;
+  
+  
+
+  
+
+}
+img {
+  height: 200px;
+  width: 200px;
+  border: solid;
+  border-radius: 200px;
+  margin-top: 20px;
+  
+}
